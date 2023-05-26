@@ -1,0 +1,18 @@
+{
+  "name": "as_ocp_api",
+  "version": "1.0.0",
+  "description": "This is a test API to run on OCP.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "test",
+    "apis"
+  ],
+  "author": "Austin Smyth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
