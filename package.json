@@ -4,7 +4,8 @@
   "description": "This is a test API to run on OCP.",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node app.js",
+    "start": "node app.js"
   },
   "keywords": [
     "test",

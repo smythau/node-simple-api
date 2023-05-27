@@ -12,7 +12,7 @@ app.use(express.json());
 app.get('/api/hello', (req, res) => {
     console.log(`API triggered from:${req.ip}`)
   const response = {
-    message: 'Hello World'
+    message: 'Hello World, again!'
   };
   res.json(response);
 });
